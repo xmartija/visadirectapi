@@ -1,0 +1,7 @@
+/sandbox_cert.pem
+/bin/
+/.settings/
+/.classpath
+/.project
+/.gradle/
+/build/
